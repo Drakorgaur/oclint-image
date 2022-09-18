@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM gcc:latest
 
 LABEL maintainer="Mark Barzali"
 LABEL maintainer.email="re.markofdark@gmail.com"
